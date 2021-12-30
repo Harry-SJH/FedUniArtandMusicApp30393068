@@ -1,4 +1,4 @@
-The application should include the following features:
+#The application should include the following features:
 • The Main Activity should function as a menu that allows the user the open additional screen(s)
 that include the other functions described below. This menu screen should be locked to
 portrait orientation.
